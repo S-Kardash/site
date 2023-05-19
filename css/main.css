@@ -5,14 +5,14 @@
     text-decoration: none;
 }
 .main{
-    background: url("/image/main.jpg");
+    background: url("./image/main.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     height: 980px;
 }
 .info_wrap{
-    background: url("/image/info.jpg");
+    background: url("./image/info.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -64,14 +64,14 @@
     color: #178878;
 }
 .accommodation{
-    background: url("/image/accommodation.jpg");
+    background: url("./image/accommodation.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     height: 980px;
 }
 .link_contact{
-    background: url("/image/link_contact.jpg");
+    background: url("./image/link_contact.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
